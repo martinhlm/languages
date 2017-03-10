@@ -1,4 +1,0 @@
-> FRUITS
-
-    pomme           apple
-    
