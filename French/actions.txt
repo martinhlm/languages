@@ -1,0 +1,12 @@
+
+> EATING
+    mangeons        "nous mangeons" - eat / are eating
+    mangez          "vous mangez" - (are) eating
+    mangent         "ils mangent"
+
+> READ
+    lisons          "nous lisons" - are reading
+    lisent          "les hommes lisent"
+
+> WRITING
+    écrivent        "write"
