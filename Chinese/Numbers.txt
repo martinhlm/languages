@@ -1,0 +1,41 @@
+> Numbers
+    0 líng
+    1 yï
+    2 èr
+    3 sän
+    4 sì
+    5 wû
+    6 liù
+    7 qï
+    8 bä
+    9 jiû
+    10 shí
+    
+    11 shíyï
+    12 shí'èr
+    
+    20 èrshí
+    21 èrshíyï
+    22 èrshí'èr
+    
+    30 sänshí
+    40 sìshí
+    50 wûshí
+    
+    99 jiûshíjiû
+    
+> Time
+    diân > measure word
+    1:00    yï diân
+    2:00    liâng diân  //  No se puede decir solo èr (2) antes de ninguna measure word.
+                            Se sustituye por liâng
+    3:00    sän diân
+    4:00    sì diân
+    12:0   shí'èr diân
+    
+    A: Qîngwèn, xiànzài jî diân?
+        (Excuse me, what time is it now?)
+    B: Xiànzài ... diân.
+        (It's ... o'clock.)
+        
+                
