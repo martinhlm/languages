@@ -1,6 +1,0 @@
-
-
-le menu         the menu
-le journal      the newspaper
-livre           book
-riches          richcalmes          calm
