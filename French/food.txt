@@ -1,4 +1,33 @@
 > FRUITS
 
     pomme           apple
-    
+
+    le sandwich         sandwich
+    la tomate           tomato
+    la soupe            soup
+    la viande           meat
+    la fraise           strawberry
+    un oignon           an onion
+    l'ceuf              the egg
+    salade              salad
+    l'eau               water
+    l'alcool            alcohol
+    rice                riz         "nous avons du riz"  (we have some rice)
+    le lait             milk
+    le vin              wine
+    la bière            the beer
+    pain                bread
+    la boisson          the drink
+    le café             the coffee
+    beurre              butter
+    le repas            meal
+    la crêpe            the crepe
+    le thé              the tea
+    le fromange         cheese
+    le poisson          fish
+    carotte             carrot
+    le bonbon           candy
+    le sel              salt
+    le gâteau           cake
+    poulet              chicken
+    le sucre            sugar

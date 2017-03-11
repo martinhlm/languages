@@ -9,4 +9,10 @@
     lisent          "les hommes lisent"
 
 > WRITING
-    écrivent        "write"
+    écrivent        write
+
+
+> DRINK
+    boivent
+    bois            "Je bois de la bière"
+    boisson         "la boisson est rouge"
