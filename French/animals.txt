@@ -1,3 +1,8 @@
 Animals
 
-    
+    un oiseau               bird
+    le cheval               horse
+    le chat/chatte          cat
+    le canard               duck
+    un éléphant             elephant
+    la chienne/chien        dog
