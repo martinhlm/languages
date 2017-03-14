@@ -5,4 +5,10 @@ Animals
     le chat/chatte          cat
     le canard               duck
     un éléphant             elephant
-    la chienne/chien        dog
+    la chienne/le chien     dog
+    le lion                 lion
+    le cochon               pig/pork
+    la tortue               turtle
+    un ours                 bear
+    la mouche               fly
+    la vache                cow

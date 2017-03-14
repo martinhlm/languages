@@ -15,8 +15,8 @@
 
 
 > GENDERS
-    homme       man
-    femmes      women
+    homme       man         'un'
+    femmes      women       'une'
 
 
 > AGE
