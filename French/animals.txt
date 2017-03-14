@@ -12,3 +12,10 @@ Animals
     un ours                 bear
     la mouche               fly
     la vache                cow
+    le serpent              snake
+    le tigre                tiger
+    un dauphin              dolphin
+    une abeille             bee
+    une araignée            spider
+    le singe                monkey/ape
+    le requin               shark
