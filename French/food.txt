@@ -31,3 +31,7 @@
     le gâteau           cake
     poulet              chicken
     le sucre            sugar
+    le citron           lemon
+    le boeuf            beef
+    le chocolat         chocolate
+    le jus              juice

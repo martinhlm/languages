@@ -16,3 +16,6 @@
     boivent
     bois            "Je bois de la bière"
     boisson         "la boisson est rouge"
+
+> CALM
+    calme           "Les garcons sont calmes" (calm, still, quiet)
