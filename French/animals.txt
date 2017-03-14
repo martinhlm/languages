@@ -25,3 +25,5 @@ Animals
     un papillon             butterfly
     la fourmi               ant
     un insecte              insect
+    un lapin                rabbit
+    la poule                hen
