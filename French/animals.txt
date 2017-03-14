@@ -19,3 +19,9 @@ Animals
     une araignée            spider
     le singe                monkey/ape
     le requin               shark
+    la souris               mouse
+    la louve/le loup        wolf
+    une baleine             whale
+    un papillon             butterfly
+    la fourmi               ant
+    un insecte              insect
