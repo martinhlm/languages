@@ -71,5 +71,11 @@ Food
     shücài          蔬菜        vegetables
 
 
-- Nî yào niúròu ma?
-- Bù, wô bù yào niúròu
+- Nî yào niúròu ma?.
+- Bù, wô bù yào niúròu.
+
+- Nî xîhuan shücài ma?
+    (Do you like vegetables?)
+
+- Shì de, wô xiâng yào shücài.
+    (Yes, I would like vegetables.)
