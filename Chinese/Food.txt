@@ -1,5 +1,10 @@
 Food
 
+    zâofàn      早饭      breakfast
+    wûfàn       午饭      lunch
+    wânfàn      晚饭      dinner
+
+
 >>> TIPICAL
 
 - Nî chï shénme?

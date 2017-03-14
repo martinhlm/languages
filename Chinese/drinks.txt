@@ -1,0 +1,21 @@
+DRINKS
+
+Nî hë shénme?
+(What do you drink?)
+
+    hë              喝       drink
+
+Wô hë shuî.
+(I drink water)
+    shuî            水       water
+    kêlè            可乐     coke
+    käfëi           咖啡     coffee
+    chä             茶       tea
+    píjiû           啤酒     beer
+
+
+Nî hë ... ma?
+(Do you like ...?)
+
+Bù, wô bû hë ... .
+(No, I don't want ...)

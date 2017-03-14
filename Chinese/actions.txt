@@ -1,0 +1,8 @@
+> ACTIONS
+
+    chï             吃          eat
+    hë              喝          drink
+    qîchuàng        起床        get up
+    göngzuò         工作        work
+    shuìjiâo        睡觉        go to bed
+    
