@@ -12,6 +12,7 @@
     êtes        "vous êtes" - (you) are
     suis        "je suis" - am (I am)
     sont        are (plural)
+    sommes      "nous sommes" (we are)
 
 
 > GENDERS
@@ -33,6 +34,33 @@
     il/elle/on      il mange - he eats      il est - he is      il a - he has
 
 
+> PLURALS
+    subject	    Être ("to be")	Parler ("to speak")
+    je	            suis	        parle
+    tu	             es	            parles
+    il/elle/on	     est	        parle
+    nous	       sommes	        parlons
+    vous	        êtes	        parlez
+    ils/elles	    sont	        parlent
+
+    Most plural forms of nouns and adjectives can be formed by appending an -s
+    to the singular, but remember that this -s is usually silent.
+
+        Le chat noir — The black cat ⇒ Les chats noirs — The black cats
+
+        Un chat noir — A black cat ⇒ Des chats noirs — (Some) black cats
+
+    Note: If the noun is preceded by an adjective, des becomes de.
+
+        Un petit chat — A little cat ⇒ De petits chats
+
+    Articles must agree with the nouns they modify, so plural nouns require
+    either les or des. This is a great way to tell if a noun is plural. If you
+    hear les or des (which sound similar to "lay" and "day"), then the noun is
+    plural. If not, it's probably singular.
+
+
+
 > HAVE
     avez        - "vous avez un livre" have
     avons       - "nous avons un chat"
@@ -50,3 +78,18 @@
     bonjour         hello / good morning / good afternoon
     merci           thanks
     ca va, merci    I'm fine
+
+
+> PUNCTUATION
+    There are no quotation marks in French. Instead, the French use
+    guillemets (« »). Exclamation marks (!), question marks (?), colons (:),
+    semicolons (;) and guillemets need to have a space on either side.
+
+        Incorrect:  "Ça va?"
+        Correct:    « Ça va ? »
+
+    When writing numbers in French, commas are decimal points, while spaces
+    mark thousands places.
+
+        Incorrect:  1,235.8
+        Correct:    1 235,8

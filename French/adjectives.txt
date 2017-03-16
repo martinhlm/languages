@@ -1,0 +1,97 @@
+> Adjectives
+
+    petit(s)               little/small/petty
+        petite          little girl
+        petites         "les pommes sont petites"
+
+    froid               cold/cool
+        froide
+
+    nouvelle            new (new student/new recruit)
+        nouveau
+
+    noire               dark/dirty
+
+    chaud               hot/warm
+        chaude
+
+    grand(s)              tall/big/great
+        grande
+
+        grandes           "les filles sont grandes"
+
+    joli(e)               pretty/lovely/nice
+        /*While 'joli(e)' can mean "nice", it's not the adjective for a nice
+          person. Consider 'gentil(e)', 'aimable' or 'sympathique' instead.*/
+
+    jeune               young/youthful
+
+    seuls               alone/by ourselves/on our own
+        seules          (plural)
+
+
+> Agreement
+    French adjectives must agree in number and gender with the nouns that they
+    modify.
+        A black dog         "un chien noir"
+        A black dress       "une robe noire"
+
+    When used with pronouns, adjectives agree with the noun that has been replaced
+
+
+> Adjective placement
+    In French, most adjectives appear after the nouns they modify.
+    For instance, le chat noir. However, some adjectives precede the noun.
+    You can remember these types of nouns using the mnemonic BANGS.
+
+        B is for beauty. Une belle femme — A beautiful woman
+
+        A is for age. Une jeune fille — A young girl
+
+        N is for number. Deux hommes — Two men
+            This can also be for rank: Le premier mot — The first word
+
+        G is for good or bad. Un bon garçon — A good boy
+
+        S is for size. Un gros chat — A fat cat
+
+All determiner adjectives (e.g. possessives, interrogatives, and demonstratives)
+appear before the noun, e.g. mon livre ("my book") and ce cochon ("that pig").
+You will learn these later.
+
+
+> Figurative adjectives
+
+    A few adjectives can come both before and after the noun depending on their
+    meaning. The most common example is grand, which is a BANGS adjective for
+    everything but people. For people, it comes before a noun when it means
+    "important" and after the noun when it means "tall". For instance, Napoleon
+    was un grand homme ("a great man"), but not un homme grand ("a tall man").
+
+    Usually, figurative meanings will precede the noun, while literal meanings
+    will follow the noun.
+
+        un pauvre homme — a pitiful man
+        un homme pauvre — a poor man
+        un certain nombre — a certain (particular) number
+        une victoire certaine — a certain (guaranteed) victory
+        ma propre voiture — my own car
+        ma voiture propre — my clean car
+        un cher ami — a dear friend
+        une montre chère — an expensive watch
+
+
+> Euphony
+
+    As you have already learned, elisions, contractions, liaisons, and
+    enchaînements are all designed to prevent consecutive vowel sounds (which
+    is called hiatus). This quest for harmonious sounds is called euphony and
+    is an essential feature of French. It has, however, created some unexpected
+    rules.
+
+    For instance, the masculine beau ("beautiful") changes to bel if its noun
+    begins with a vowel sound. A beautiful man is un bel homme. The other two
+    common changes are vieux to vieil ("old") and nouveau to nouvel ("new").
+
+    Note that this doesn't occur to feminine adjectives because they usually
+    end in silent vowels.

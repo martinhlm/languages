@@ -2,10 +2,12 @@ Animals
 
     un oiseau               bird
     le cheval               horse
-    le chat/chatte          cat
-    le canard               duck
-    un éléphant             elephant
+    le chat(s)/chatte       cat
+    le canard(s)            duck
+    un éléphant(s)          elephant
     la chienne/le chien     dog
+        les chiens
+        chiennes              
     le lion                 lion
     le cochon               pig/pork
     la tortue               turtle
