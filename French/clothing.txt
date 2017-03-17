@@ -1,0 +1,30 @@
+
+
+    le vêtements            clothing/clothes
+    le pantalon             pants
+    la ceinture             belt
+        les ceintures
+                            (I) tackle/am tackling
+                            (I) surrond/am surrounding
+
+    le sac                  bag
+    la chaussures           shoes
+    les poches              pockets
+    la chemise              shirt
+                            folder
+
+    la jupe(s)              skirt
+    le costume              suit
+    le portefeuille         wallet
+    le manteau              coat
+    la botte(s)             boot
+                            (he/she/it)kicks
+
+    le chepeau              hat
+    gant(s)                 gloves
+    la cravate              tie
+    la chaussette           sock
+    l'écharpe               scarf
+    la casquette            cap
+    le parapluie            umbrella
+    le jean                 pair of jeans
