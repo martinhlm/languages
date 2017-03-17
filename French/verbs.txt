@@ -2,4 +2,93 @@ Verbs
 
 > Être / Avoir
 
-    
+    To Be and To Have
+
+    'Être' and 'avoir' are the most common verbs in French. Like many common verbs,
+    they have irregular conjugations.
+
+        Subject	        Être ("to be")	     Avoir ("to have")
+        je/j'	          (je) suis	          (j')ai
+        tu	              es	              as
+        il/elle/on	      est	              a
+        nous	          sommes	          avons
+        vous	          êtes	              avez
+        ils/elles	      sont	              ont
+
+    There should be a liaison between 'ils' or 'elles' and 'ont' ("il-zon" or "elle-zon").
+    The "z" sound is essential here to differentiate between "they are" and
+    "they have", so be sure to emphasize it.
+
+    These two verbs are very important because they can act as auxiliary verbs
+    in French, but they differ from their English equivalents. In "Basics 2",
+    you learned that "I write" and "I am writing" both translate to "j'écris",
+    not 'je suis écris'. This is because 'être' cannot be used as an auxiliary in
+    a simple tense. It can only be used in compound tenses, which you will learn
+    in the "Passé Composé" unit.
+
+    Another important distinction is that 'avoir' means "to have" in the sense of
+    "to possess", but not "to consume" or "to experience". Other verbs must be
+    used for these meanings.
+
+> C'est or Il Est?
+
+    When describing people and things with 'être' in French, you usually can't
+    use a personal subject pronoun like 'elle'. Instead, you must use the
+    impersonal pronoun 'ce', which can also mean "this" or "that". Note that 'ce'
+    is invariable, so it can never be 'ces sont'.
+
+                    Impersonal Subject Pronoun	Personal Subject Pronoun
+        Singular	       c'est	                  il/elle est
+        Plural	           ce sont	                  ils/elles sont
+
+    These pronouns aren't interchangeable. The basic rule is that you must use
+    'ce' when 'être' is followed by any determiner—for instance, an article or
+    a possessive adjective. Note that "c'est" should be used for singulars and
+    'ce sont' should be used for plurals.
+
+        C'est un homme.     — He's a man. / This is a man. / That is a man.
+        Ce sont des chats.  — They're cats. / These are cats. / Those are cats.
+        C'est mon chien.    — It's my dog. / This is my dog. / That's my dog.
+
+
+    If an adjective, adverb, or both appear after être, then use the personal pronoun.
+
+        Elle est belle.     — She is beautiful. (Or "It is beautiful.")
+        Il est très fort.   — He is very strong. (Or "It is very strong.")
+
+
+    As you know, nouns generally need determiners, but one important exception
+    is that professions, nationalities, and religions can act as adjectives
+    after 'être'. This is optional; you can also choose to treat them as nouns.
+
+        He is a doctor. — Il est médecin. / C'est un médecin.
+
+
+    However, "c'est" should be used when using an adjective to make a general
+    comment about (but not describe) a thing or situation. In this case, use
+    the masculine singular form of the adjective.
+
+        c'est normal ? — is this normal?
+        non, c'est étrange. — no, this is strange.
+
+
+
+> Idioms with Avoir
+
+    One of the most common idioms in French is the use of the verb 'avoir' in
+    certain places where English would use the verb "to be".
+    This is especially common for states or conditions that a person may experience.
+
+        Elle a chaud.       — She is hot. (Or "She feels hot.")
+        Il a froid.         — He is cold.
+        Elle a deux ans.    — She is two years old.
+        J'ai peur !         — I am afraid!
+
+
+    French tends to use the verb faire ("to do") idiomatically for general
+    conditions like weather. Note that 'il fait' is an impersonal expression
+    with no real subject, just like 'il y a' from "Common Phrases".
+
+        Il fait chaud.  — It is hot (outside).
+        Il fait froid.  — It is cold.
+        Il fait nuit.   — It is nighttime.
