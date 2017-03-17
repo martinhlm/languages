@@ -20,7 +20,7 @@
     le café             the coffee
     beurre              butter
     le repas            meal
-    la crêpe            the crepe
+    la crêpe(s)         the crepe
     le thé              the tea
     le fromange         cheese
     le poisson(s)       fish
@@ -35,3 +35,8 @@
     le chocolat         chocolate
     le jus              juice
     la confiture        jam
+    pâtes               pasta
+    frites              fries
+    les haricots        beans
+    baguettes           baguettes
+    légumes             vegetables
