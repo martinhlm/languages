@@ -13,6 +13,7 @@
     suis        "je suis" - am (I am)
     sont        are (plural)
     sommes      "nous sommes" (we are)
+    c'est       this is/that is/it is
 
 
 > GENDERS
@@ -62,14 +63,18 @@
 
 
 > HAVE
-    avez        - "vous avez un livre" have
-    avons       - "nous avons un chat"
+    j'ai        I have          "J'ai une fraise"
+    as          you have        "Tu as un joli canard" 
+    avez                        "vous avez un livre"
+    avons                       "nous avons un chat"
+    ont         they have       "Ils ont un cheval"
 
 
 >
     est             is
     du              some
     avec            with
+
 
 
 > COMMON
