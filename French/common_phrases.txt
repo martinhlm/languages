@@ -9,5 +9,36 @@
     where it's pronounced as part of the first syllable.
 
 
+    Oui                         Yes
+    Non                         No/not
 
-    
+    Bonjour                     Hello/Good mornign/Good afternoon
+    Bonsoir                     Good evening
+    Bonne nuit                  Good night
+    Salut                       Hi/Hello   Bye/goodbye
+    Bienvenue                   Welcome
+    Au revoir                   Goodbye
+
+    D'accord                    All right/Right
+
+    Merci                       Thank you/Thanks
+    Merci beaucop               Thank you very much
+
+    Pardon                      Excuse me/Pardon me
+    Excuse moi
+    Désolé                      Sorry
+
+    S'il te plaît               Please/If you please
+    S'il vous plaît
+
+    Comment ça va ?             How are you?/How are you doing?
+    ça va                       I'm fine/How are you(?)/I am doing well
+    ça va bien (?)              It is going well/Are you doing well(?)/How is it going(?)
+
+    De rien                     You're welcome/It's nothing/Don't mention it
+
+    À plus tard                 See you later
+    À bientôt                   See you soon
+    À demain                    See you tomorrow
+
+    Il y a                      There is/there are/ago
