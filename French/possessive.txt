@@ -1,19 +1,68 @@
 > POSSESSIVES
 
-    mon             my              "C'est mon sac rouge"
-    ma              my              "J'ai ma lettre"
-    mes             my              "Mes vêtements"
-    ta              your
-    ton             your            "Ton chat"
-    tes             your            "Tes citrons"
-    vos             your            "Vos enfants ?"
-    votre           your            "Votre chapeau"
-    son             her/his/volume
-    sa              her/his/its     "C'est sa jupe"
-    ses             her/his/its
-    leur            their/them
-    leurs           their/theirs    "Leurs enfants"
-    notre           our             "Notre journal"
-    nos             our             "Et nos enfants ?"
+    mon             my              "C'est mon sac rouge"   (masculine)
+    ma              my              "J'ai ma lettre"        (feminine)
+    mes             my              "Mes vêtements"         (plural)
 
-    
+    ton             your            "Ton chat"              (masculine)
+    ta              your                                    (feminine)
+    tes             your            "Tes citrons"           (plural)
+
+    son             her/his/volume                          (masculine)
+    sa              her/his/its     "C'est sa jupe"         (feminine)
+    ses             her/his/its                             (plural)
+
+    leur            their/them                              (multiple owners) (singular)
+    leurs           their/theirs    "Leurs enfants"         (multiple owners) (plural)
+
+    votre           your            "Votre chapeau"         (multiple owners) (singular)
+    vos             your            "Vos enfants ?"         (multiple owners) (plural)
+
+    notre           our             "Notre journal"         (multiple owners) (singular)
+    nos             our             "Et nos enfants ?"      (multiple owners) (plural)
+
+
+> Possessives Match What is Owned
+
+    In English, possessive adjectives (e.g. "his") match the owner. However,
+    in French, they match the thing being owned.
+
+    Consider the example of "her lion". The French translation is son lion,
+    because lion is masculine and both the lion and the woman are singular.
+    Note that if we hear just son lion, we can't tell if the lion is owned by
+    a man or woman. It's ambiguous without more context. If two people own a
+    lion, then it is leur lion.
+
+    Possessives have different forms that agree with four things: the number
+    of owners, the number of things owned, the gender of the thing owned, and
+    the grammatical person of the owner (e.g. "his" versus "my").
+
+    The plural second-person possessive adjectives, votre and vos, should be
+    used when addressing someone formally with vous.
+
+
+> Euphony in Possessives
+
+    For the sake of euphony, all singular feminine possessives switch to their
+    masculine forms when followed by a vowel sound.
+
+        Person	 Masculine	      Feminine	       Feminine + Vowel Sound
+        1st	      mon chat	       ma robe	            mon eau
+        2nd	      ton chat	       ta robe	            ton eau
+        3rd	      son chat	       sa robe	            son eau
+
+
+> Femme and Fille
+
+    Femme can mean "woman" or "wife" and fille can mean "girl" or "daughter"
+    depending on the context. For example, when femme and fille are preceded
+    by a possessive adjective, then they translate to "wife" and "daughter",
+    respectively.
+
+        Une fille et une femme sont dans le restaurant 
+            — A girl and a woman are in the restaurant.
+            (Not: "A daughter and a wife are in the restaurant.")
+
+        Ma fille — My daughter. (Not: "My girl".)
+
+        Ta femme — Your wife. (Not: "Your woman".)
