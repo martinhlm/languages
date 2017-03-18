@@ -1,0 +1,19 @@
+> POSSESSIVES
+
+    mon             my              "C'est mon sac rouge"
+    ma              my              "J'ai ma lettre"
+    mes             my              "Mes vêtements"
+    ta              your
+    ton             your            "Ton chat"
+    tes             your            "Tes citrons"
+    vos             your            "Vos enfants ?"
+    votre           your            "Votre chapeau"
+    son             her/his/volume
+    sa              her/his/its     "C'est sa jupe"
+    ses             her/his/its
+    leur            their/them
+    leurs           their/theirs    "Leurs enfants"
+    notre           our             "Notre journal"
+    nos             our             "Et nos enfants ?"
+
+    
