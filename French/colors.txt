@@ -12,3 +12,30 @@
     orange          orange
     marron          brown/chesnut/bent
     rose            pink
+
+Colors can be both nouns and adjectives. As nouns, colors are usually masculine.
+
+    Le rose. — The pink.
+
+
+As adjectives, they agree with the nouns they modify except in two cases.
+First, colors derived from nouns (e.g. fruits, flowers, or gems) tend to be
+invariable with gender and number. Orange ("orange") and marron ("brown") are
+the most common examples.
+
+    La jupe orange — The orange skirt
+    Les jupes orange — The orange skirts
+    Les chiens marron. — The brown dogs.
+
+
+Second, in compound adjectives (les adjectifs composés) made up of two 
+adjectives, both adjectives remain in their masculine singular forms.
+
+    Sa couleur est vert pomme. — Its color is apple-green.
+    J'aime les robes rose clair. — I like light-pink dresses.
+
+
+Most colors that end in -e in their masculine forms are invariable with gender.
+
+    Un chien rouge — A red dog
+    Une jupe rouge — A red skirt
