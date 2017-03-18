@@ -64,7 +64,7 @@
 
 > HAVE
     j'ai        I have          "J'ai une fraise"
-    as          you have        "Tu as un joli canard" 
+    as          you have        "Tu as un joli canard"
     avez                        "vous avez un livre"
     avons                       "nous avons un chat"
     ont         they have       "Ils ont un cheval"
@@ -76,6 +76,15 @@
     avec            with
 
 
+> POSSESSIVES
+
+    mon             my              "C'est mon sac rouge"
+    ma              my              "J'ai ma lettre"
+    ta              your
+    ton             your            "Ton chat"
+    son             her/his/volume
+    sa              her/his/its     "C'est sa jupe"
+    leur            their/them
 
 > COMMON
     non             no
