@@ -5,17 +5,33 @@
     mangent         "ils mangent" (plural)
 
 > READ
-    lisons          "nous lisons" - are reading
+    lis             "Je lis le journal"/"Tu lis"
+    lisez           "Vous lisez"
     lisent          "les hommes lisent"
+    lisons          "nous lisons" - are reading
+    lit             "Il lit le menu" - He is reading the menu
 
 > WRITING
-    écrivent        write
-
+    écris           "J'écris une lettre"
+    écrit           "Il écrit une lettre"
+    écrivent        "L'homme et la femme écrivent une lettre"
 
 > DRINK
-    boivent
-    bois            "Je bois de la bière"
     boisson         "la boisson est rouge"
+    bois            "Je bois de la bière"
+    boit            "Il boit"
+    boivent         "Les hommes boivent du vin"
+    buvons          "Nous buvons du café"
 
 > CALM
     calme           "Les garcons sont calmes" (calm, still, quiet)
+
+> SPEAK
+    parles          "Tu parles"
+    parlez          "Vous parlez"
+    parle           "Il parle"  - He es speaking
+    parlent         "Ils parlent"
+
+> WANT
+    veux             "Je veux du polet"/"Tu veux un cheval"
+    voulons          "Nous voulons de frites"(we) want/(let us) want
