@@ -76,16 +76,6 @@
     avec            with
 
 
-> POSSESSIVES
-
-    mon             my              "C'est mon sac rouge"
-    ma              my              "J'ai ma lettre"
-    ta              your
-    ton             your            "Ton chat"
-    son             her/his/volume
-    sa              her/his/its     "C'est sa jupe"
-    leur            their/them
-
 > COMMON
     non             no
     oui             yes
