@@ -1,2 +1,14 @@
+> Colors
 
-noir        black
+    couleur         color(US)/colour(UK)
+    noir            black
+    rouge           red
+    verte           green/stiff/unripe
+    bleues          blue
+    blanches        white
+    jaunes          yellow
+    gris            gray/grey
+    violet          purple
+    orange          orange
+    marron          brown/chesnut/bent
+    rose            pink
