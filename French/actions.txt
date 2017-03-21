@@ -62,3 +62,20 @@ Present 1
 > MUST
     dois            "Je dois manger et boire" - (I/you) have to/need to
     doivent         "Les enfants doivent manger" - (they) must/have to/owe
+
+> MAKE
+    fais           "Je fais des frites"
+    fait            "L'homme fait la soupe" - is making/makes/is preparing
+    faites          "Vous faites du café" - (you-plural) make/prepare/shape
+    faisons         "Nous faisons des crêpes"
+
+> HELP
+    aides           "Tu aides ta femme" - (you) help/are helping
+    aide            "Il aide son chien"
+
+> CALL
+    appelle         "La fille appelle le garcon" - (he/she/it) calls/is calling/phones
+
+> BUY
+    achète          "Le garcon achète un chien" - (he/she/it) buys/is buying
+    achetons        "Nous achetons des pommes vertes" - 
