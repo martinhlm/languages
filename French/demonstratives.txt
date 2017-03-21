@@ -1,0 +1,7 @@
+Demonstratives
+
+    ce          "Ce cochonest grand" - this/that/these
+    cet         "Cet homme est jeune" - (before vowel) this/that
+    ces         "Ces enfants mangent" - these/those
+    cette       "Ce chatt est jolie" - that/this
+    ça          "Tu manges ça" - that/it

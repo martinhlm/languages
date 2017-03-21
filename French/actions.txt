@@ -94,3 +94,7 @@ Present 1
 
 > WAIT
     attends         "J'attends mew enfants" - (I) am waiting for/wait for/wait/waiting
+
+> LIKE
+    aime            "J'aime ce serpent" - I like (thing)
+                                          I love (people/pets)
