@@ -59,6 +59,8 @@ Present 1
     sais            "Je sais"
     savez           "Vous savez ?"
 
+    connais         "Tu connais un homme" - (you) are acquainted with/are familiar with
+
 > MUST
     dois            "Je dois manger et boire" - (I/you) have to/need to
     doivent         "Les enfants doivent manger" - (they) must/have to/owe
@@ -78,4 +80,17 @@ Present 1
 
 > BUY
     achète          "Le garcon achète un chien" - (he/she/it) buys/is buying
-    achetons        "Nous achetons des pommes vertes" - 
+    achetons        "Nous achetons des pommes vertes"
+
+> LOOK (search)
+    cherchons       "Nous cherchons un livre" - (we) look for/are looking for/meet
+
+> COMMAND
+    commande        "Je commande !" - (I) am in charge/am in command/order/am ordering
+
+> LEARN
+    apprenons       "Nous apprenons" - (let us) learn
+                                       (we) learn/are learning/tell/are telling
+
+> WAIT
+    attends         "J'attends mew enfants" - (I) am waiting for/wait for/wait/waiting
