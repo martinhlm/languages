@@ -1,1 +1,122 @@
 Verbs PRESENT 1
+
+> Conjugations and Infinitives
+
+    Verbs like parler conjugate to agree with their subjects.
+    Parler itself is an infinitive, which is a verb's base form. It consists of a
+    root (parl-) and an ending (-er). The ending can dictate how the verb should be
+    conjugated. In this case, almost all verbs ending in -er are regular verbs in
+    the 1st Group that share the same conjugation pattern. To conjugate another 1st
+    Group verb, affix the ending to that verb's root.
+
+        Aimer ("to love"): j'aime, tu aimes, nous aimons, etc.
+        Marcher ("to walk"): je marche, tu marches, nous marchons, etc.
+
+
+    Every verb belongs to one of three groups:
+
+        - The 1st Group includes regular -er verbs and includes 80% of all verbs.
+        - The 2nd Group includes regular -ir verbs like finir ('to finish").
+        - The 3rd Group includes all irregular verbs. This includes many common
+        verbs like être and avoir as well as a handful of less common conjugation patterns.
+
+    Subject	    G1: parler	     G2: finir	      G3: dormir
+    je	         parle	          finis	            dors
+    tu	         parles	          finis	            dors
+    il/elle/on	 parle	          finit	            dort
+    nous	     parlons	      finissons	        dormons
+    vous	     parlez	          finissez	        dormez
+    ils/elles	 parlent	      finissent	        dorment
+
+
+    Aller ("to go") is the only fully irregular verb in Group 1, but a handful
+    of others are slightly irregular.
+
+    Spelling-changing verbs end in -ger (e.g. manger) or -cer (e.g. lancer,
+    "to throw") and change slightly in the nous form, as well as any other
+    form whose ending begins with an A or O. These verbs take a form like
+    nous mangeons or nous lançons.
+
+    Stem-changing verbs have different roots in their nous and vous forms.
+    For instance, most forms of appeler ("to call") have two L's (e.g.
+    j'appelle), but the N/V forms are nous appelons and vous appelez.
+
+
+> Semi-Auxiliary Verbs
+
+    The only true auxiliary verbs in French are être and avoir, but there are a
+    number of semi-auxiliary verbs in French that can be used with other verbs
+    to express ability, necessity, desire, and so on. They are used in double-
+    verb constructions where the first verb (the semi-auxiliary) is conjugated
+    and the second is not.
+
+        Je veux lire. — I want to read.
+        Il aime manger. — He likes to eat.
+
+
+    Modal verbs are the English equivalents of semi-auxiliaries—for instance,
+    "can", which translates to either savoir or pouvoir. When "can" indicates
+    knowledge, use savoir.
+
+        Je sais lire et écrire. — I know how to read and write.
+        Il sait parler allemand. — He knows how to speak German.
+
+
+    When "can" indicates permission or ability (apart from knowledge), use pouvoir.
+
+        Il peut manger. — He can (or "may") eat.
+        Il peut parler allemand. — He is allowed to speak German.
+
+
+    One of the most important semi-auxiliary verbs is aller, which is used to
+    express the near future (futur proche), just like the English verb "going to".
+
+        Je vais manger. — I am going to eat.
+        Vous allez lire le livre. — You are going to read the book.
+
+
+    Note that in verb constructions beginning with non-auxiliary verbs, the verbs must be separated by a preposition.
+
+        Nous vivons pour manger. — We live to eat.
+
+
+> Impersonal Expressions
+
+    A few defective impersonal verbs can only be used in impersonal statements
+    and must be conjugated as third-person singular with il. Remember that il
+    is a dummy subject and does not refer to a person.
+
+    Falloir means "to be necessary", and it often takes the form il faut + infinitive.
+
+        Il faut manger. — It is necessary to eat. / One must eat.
+        Il faut choisir. — It is necessary to choose. / One must choose.
+
+
+    Il faut can also be used transitively with a noun to indicate that it is needed.
+
+        Il faut du pain. — (Some) bread is needed.
+
+
+> Confusing Verbs
+
+    Used transitively, savoir and connaître both mean "to know", but in different
+    ways. Savoir implies understanding of subjects, things, or skills, while
+    connaître indicates familiarity with people, animals, places, things, or situations.
+
+        Je sais les mots. — I know the words.
+        Je connais le garçon. — I know the boy.
+
+
+    Attendre means "to await", which is why it does not need a preposition.
+
+        Il attend son ami. — He is awaiting (or "waiting for") his friend.
+
+
+> One Each
+
+    The indefinite article doesn't always refer to just one thing. Sometimes,
+    it can mean one thing each. Consider these examples:
+
+        Ils ont un manteau — They have one coat / They each have one coat
+        Ils ont des manteaux — They have some coats / They each have some coats
+        
