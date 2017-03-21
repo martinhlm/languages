@@ -1,8 +1,10 @@
+Present 1
 
 > EATING
     mangeons        "nous mangeons" - eat / are eating
     mangez          "vous mangez" - (are) eating
     mangent         "ils mangent" (plural)
+    manger          "Les enfants doivent manger" - (to) eat
 
 > READ
     lis             "Je lis le journal"/"Tu lis"
@@ -17,11 +19,12 @@
     écrivent        "L'homme et la femme écrivent une lettre"
 
 > DRINK
-    boisson         "la boisson est rouge"
     bois            "Je bois de la bière"
+    boisson         "la boisson est rouge"
     boit            "Il boit"
     boivent         "Les hommes boivent du vin"
     buvons          "Nous buvons du café"
+    boire           "je dois manger et boire" - (to) drink
 
 > CALM
     calme           "Les garcons sont calmes" (calm, still, quiet)
@@ -35,3 +38,27 @@
 > WANT
     veux             "Je veux du polet"/"Tu veux un cheval"
     voulons          "Nous voulons de frites"(we) want/(let us) want
+
+> CAN
+    peux            "Je peux"
+    peut            "Il peut" - (he/she/it)
+    pouvez          "vous pouvez"
+    pouvons         "Nous pouvons !" - (we) can/are able to/are capable of
+
+> LOVES
+    adore           "Elle adore ses enfants" - (he/she/it) loves
+
+> UNDERSTAND
+    comprends       "Je comprends" - (I/you) understand
+                                     (I) am made up of
+                                     (I/you) see
+    comprend        "Il comprend le livre"
+    comprenons      "Nous comprenons le journal" - (we) understand
+
+> KNOW
+    sais            "Je sais"
+    savez           "Vous savez ?"
+
+> MUST
+    dois            "Je dois manger et boire" - (I/you) have to/need to
+    doivent         "Les enfants doivent manger" - (they) must/have to/owe
