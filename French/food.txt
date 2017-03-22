@@ -1,5 +1,6 @@
-> FRUITS
+> FOOD
 
+    le repas            meal
     pomme(s)            apple
     le sandwich(s)      sandwich
     la tomate           tomato
@@ -19,7 +20,6 @@
     la boisson          the drink
     le café             the coffee
     beurre              butter
-    le repas            meal
     la crêpe(s)         the crepe
     le thé              the tea
     le fromange         cheese
@@ -28,7 +28,7 @@
     le bonbon           candy
     le sel              salt
     le gâteau           cake
-    poulet              chicken
+    le poulet           chicken
     le sucre            sugar
     le citron(s)        lemon
     le boeuf            beef

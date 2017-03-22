@@ -98,3 +98,6 @@ Present 1
 > LIKE
     aime            "J'aime ce serpent" - I like (thing)
                                           I love (people/pets)
+
+> COOK
+    cuisine         "Une femme cuisine"
