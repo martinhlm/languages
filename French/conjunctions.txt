@@ -7,3 +7,32 @@ CONJUNCTIONS
     donc                therefore/so/consequently   "Elle boit, donc je bois"
     car                 because/for/bus             "Je suis petit car je suis un enfant"
     mais                but/yet/although            "J'aime le thé, mais j'adore le café"
+
+
+Conjunctions function by hooking up words, phrases, and clauses.
+Coordinating conjunctions link two or more similar elements in a sentence.
+For instance, et may be used to link two nouns together.
+
+    Je mange une pomme et une orange. — I am eating an apple and an orange.
+    Elle a un chien et un chat. — She has a dog and a cat.
+
+
+It may also link two adjectives or even two clauses.
+
+    La robe est grande et jolie. — The dress is big and pretty.
+    Le chat est noir et le chien est blanc. — The cat is black and the dog is white.
+
+
+For the most part, French coordinating conjunctions behave very similarly to their English counterparts.
+
+    Conj.	English	    Example
+    et	     and	    Elle a un chien et un chat. — She has a dog and a cat.
+    mais	 but	    Mais pas maintenant. — But not now.
+    ou	     or	        Oui ou non ? — Yes or no?
+    comme	 as/like	Je suis comme ça. — I am like that.
+    donc	 so/thus	Il est jeune, donc il est petit. — He is young, so he is small.
+    car	     because	Je lis, car j'aime ce livre. — I read because I like this book.
+
+
+The conjunction car means "because", and it's usually reserved for writing. The
+subordinating conjunction parce que is preferred in speech.
