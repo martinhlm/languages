@@ -1,0 +1,22 @@
+QUESTIONS
+
+    Qu'             what            "Qu'avez-vous ?" - what do you have?
+    Que             what/that/whom  "Que lit-elle ?" - what is she reading?
+    quoi            what
+    Qu'est-ce qu'.. what            "Qu'est-ce qu'elle boit ?" - what is she drinking?
+    qu'est-ce que c'est ?           "what is this?"
+    c'est quoi ?                    "this is what?"
+
+    quand           when            "quand, pourquoi et comment ?"
+
+    Où              where/wherever  "Où est mon livre ?"
+
+    lequel          which/which one/whom    "lequel ?"
+    laquelle        which/which one/whom
+    lesquels        (plural)                "lesquels sont vous enfants ?"
+
+    comment         how/how can you         "comment ?"
+    combien         how much/how many
+    pourquoi        why             "Pourquoi aimes-tu les poissons ?" - why do you like the fish?
+
+    Parle-t-il ?    does he speak/does he talk/is he speaking
