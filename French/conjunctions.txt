@@ -1,0 +1,9 @@
+CONJUNCTIONS
+
+    quand               when/whenever               "Il mange quand je bois"
+    ou                  or                          "Un garçon ou une fille ?"
+    comme               like that/that way          "je suis comme ça"
+        comme ça        like that/that way
+    donc                therefore/so/consequently   "Elle boit, donc je bois"
+    car                 because/for/bus             "Je suis petit car je suis un enfant"
+    mais                but/yet/although            "J'aime le thé, mais j'adore le café"

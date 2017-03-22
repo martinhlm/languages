@@ -21,7 +21,7 @@ Present 1
 > DRINK
     bois            "Je bois de la bière"
     boisson         "la boisson est rouge"
-    boit            "Il boit"
+    boit            "Il boit"                   - (he/she/it)
     boivent         "Les hommes boivent du vin"
     buvons          "Nous buvons du café"
     boire           "je dois manger et boire" - (to) drink
