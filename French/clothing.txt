@@ -9,6 +9,7 @@
 
     le sac                  bag
     la chaussures           shoes
+                                "Les chaussures blanches"
     les poches              pockets
     la chemise              shirt
                             folder

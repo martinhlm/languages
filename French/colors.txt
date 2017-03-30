@@ -3,9 +3,12 @@
     couleur         color(US)/colour(UK)
     noir            black
     rouge           red
-    verte           green/stiff/unripe
-    bleues          blue
-    blanches        white
+    vert/e           green/stiff/unripe
+                        "Le canard est vert"
+    bleu/es          blue
+    blanc/hes       white/(pluras)
+                        "Il a une chemisse blanche"
+                        "Elle a des vêtements blancs"
     jaunes          yellow
     gris            gray/grey
     violet          purple
@@ -28,7 +31,7 @@ the most common examples.
     Les chiens marron. — The brown dogs.
 
 
-Second, in compound adjectives (les adjectifs composés) made up of two 
+Second, in compound adjectives (les adjectifs composés) made up of two
 adjectives, both adjectives remain in their masculine singular forms.
 
     Sa couleur est vert pomme. — Its color is apple-green.

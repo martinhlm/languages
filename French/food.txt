@@ -1,6 +1,8 @@
 > FOOD
 
+    la boisson          the drink
     le repas            meal
+
     pomme(s)            apple
     le sandwich(s)      sandwich
     la tomate           tomato
@@ -17,7 +19,6 @@
     le vin              wine
     la bière            the beer
     pain                bread
-    la boisson          the drink
     le café             the coffee
     beurre              butter
     la crêpe(s)         the crepe
@@ -40,3 +41,5 @@
     les haricots        beans
     baguettes           baguettes
     légumes             vegetables
+    le raisin           grapes
+    huile               oil
