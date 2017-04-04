@@ -8,6 +8,12 @@ QUESTIONS
     c'est quoi ?                    this is what?
     Que font-ils seuls ?            What are they doing alone?
 
+    Est-ce que tu... ?              "Est-ce que tu aimes le chocolat ?" - Do you like chocolate?
+
+    Qui             who/that/whom   "Qui est riche ?"
+    Quel            which/what      "Quel est mon manteau ?"
+    Quelle
+
     quand           when            "quand, pourquoi et comment ?"
 
     Où              where/wherever  "Où est mon livre ?"
