@@ -9,7 +9,7 @@ Present 1
 > READ
     lis             "Je lis le journal"/"Tu lis"
     lisez           "Vous lisez"
-    lisent          "les hommes lisent"
+    lisent          "les hommes lisent" - "Il lis livre"
     lisons          "nous lisons" - are reading
     lit             "Il lit le menu" - He is reading the menu
 

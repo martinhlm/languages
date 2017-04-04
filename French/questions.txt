@@ -4,8 +4,9 @@ QUESTIONS
     Que             what/that/whom  "Que lit-elle ?" - what is she reading?
     quoi            what
     Qu'est-ce qu'.. what            "Qu'est-ce qu'elle boit ?" - what is she drinking?
-    qu'est-ce que c'est ?           "what is this?"
-    c'est quoi ?                    "this is what?"
+    qu'est-ce que c'est ?           what is this?
+    c'est quoi ?                    this is what?
+    Que font-ils seuls ?            What are they doing alone?
 
     quand           when            "quand, pourquoi et comment ?"
 
