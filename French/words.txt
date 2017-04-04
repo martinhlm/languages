@@ -3,4 +3,7 @@
     la lettre               letter
         les lettres
 
-    enfant                  child    
+    enfant                  child
+
+    aimons                  like
+        aime                    "Il aime ça" - He likes that

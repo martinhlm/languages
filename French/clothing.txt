@@ -1,7 +1,7 @@
 
 
-    le vêtements            clothing/clothes
-    le pantalon             pants
+    le vêtements            clothing/clothes/garment
+    le pantalon             pants/trousers
     la ceinture             belt
         les ceintures
                             (I) tackle/am tackling
@@ -21,7 +21,7 @@
     la botte(s)             boot
                             (he/she/it)kicks
 
-    le chepeau              hat
+    le chapeau              hat
     gant(s)                 gloves
     la cravate              tie
     la chaussette           sock
@@ -29,3 +29,4 @@
     la casquette            cap
     le parapluie            umbrella
     le jean                 pair of jeans
+    veste                   jacket

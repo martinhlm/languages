@@ -1,33 +1,34 @@
 > Adjectives
 
-    petit(s)               little/small/petty
-        petite          little girl
-        petites         "les pommes sont petites"
+    petit(s)                little/small/petty
+        petite              little girl
+        petites             "les pommes sont petites"
 
-    froid               cold/cool
+    froid                   cold/cool
         froide
 
-    nouvelle            new (new student/new recruit)
+    nouvelle                new (new student/new recruit)
         nouveau
 
-    noire               dark/dirty
+    noire                   dark/dirty
 
-    chaud               hot/warm
+    chaud                   hot/warm
         chaude
 
-    grand(s)              tall/big/great
+    grand(s)                tall/big/great
         grande
+        gross               "Le chapeau est gross"
 
-        grandes           "les filles sont grandes"
+        grandes             "les filles sont grandes"
 
-    joli(e)               pretty/lovely/nice
+    joli(e)                 pretty/lovely/nice
         /*While 'joli(e)' can mean "nice", it's not the adjective for a nice
           person. Consider 'gentil(e)', 'aimable' or 'sympathique' instead.*/
 
-    jeune               young/youthful
+    jeune                   young/youthful
 
-    seuls               alone/by ourselves/on our own
-        seules          (plural)
+    seuls                   alone/by ourselves/on our own
+        seules              (plural)
 
 
 > Agreement

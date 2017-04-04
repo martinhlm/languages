@@ -29,38 +29,56 @@ Demonstratives
     Ce can mean either "this" or "that". It's ambiguous between the two. To
     specify, use the suffix -ci ("here") or -là ("there") on the modified noun.
 
-    Ce livre-ci est rouge. — This book is red.
-    Ces chats-là sont noirs. — Those cats are black.
-    French learners often confuse the demonstrative adjective ce with the pronoun ce (from "Être-Avoir"). Discerning between them is easy, however: an adjective must modify a noun, while a pronoun can stand alone as a subject or object. Compare:
+        Ce livre-ci est rouge. — This book is red.
+        Ces chats-là sont noirs. — Those cats are black.
 
-    Adjective: Ces hommes sont mes amis. — These men are my friends.
-    Pronoun: Ce sont mes amis. — They are my friends.
-    In the first example, ces is an adjective that modifies hommes, but in the second, ce is a subject pronoun.
 
-    Ça
+    French learners often confuse the demonstrative adjective ce with the
+    pronoun ce (from "Être-Avoir"). Discerning between them is easy, however:
+    an adjective must modify a noun, while a pronoun can stand alone as a
+    subject or object. Compare:
+
+        Adjective: Ces hommes sont mes amis. — These men are my friends.
+        Pronoun: Ce sont mes amis. — They are my friends.
+
+
+    In the first example, ces is an adjective that modifies hommes, but in the
+    second, ce is a subject pronoun.
+
+> Ça
 
     The indefinite demonstrative pronoun ça refers to an unnamed concept or thing. When it's used as an object, it usually translates to "this" or "that".
 
-    Tu manges ça. — You are eating this.
-    Je veux ça. — I want that.
+        Tu manges ça. — You are eating this.
+        Je veux ça. — I want that.
+
+
     Ça can also be used as a subject, in which case it can also mean "it".
 
-    Ça sent bon. — It smells good.
-    Ça semble simple. — This seems simple.
-    ÇA OR CE?
+        Ça sent bon. — It smells good.
+        Ça semble simple. — This seems simple.
+
+
+> ÇA OR CE?
 
     A simple rule of thumb to follow is that ce should be used with être, including in the double-verb constructions pouvoir être and devoir être.
 
-    C’est un très bon vin ! — This is a really good wine!
-    Ce sont des garçons. — They are boys.
-    Ce peut être triste en hiver. — It can be sad in winter.
-    Ce doit être ton fils. — It must be your son.
+        C’est un très bon vin ! — This is a really good wine!
+        Ce sont des garçons. — They are boys.
+        Ce peut être triste en hiver. — It can be sad in winter.
+        Ce doit être ton fils. — It must be your son.
+
+
     Ça should be used with all other verbs.
 
-    Ça va bien. — It's going well.
-    Ça dure un jour. — That lasts a day.
-    Ça m'intéresse beaucoup. — That interests me a lot.
+        Ça va bien. — It's going well.
+        Ça dure un jour. — That lasts a day.
+        Ça m'intéresse beaucoup. — That interests me a lot.
+
+
     However, when an object pronoun comes before être, then you must use ça, not ce. This is relatively rare.
 
-    Ça m'est égal. — It's all the same to me.
+        Ça m'est égal. — It's all the same to me.
+
+
     Also, note that ça is informal and is usually replaced by cela ("that") or ceci ("this") in writing.
